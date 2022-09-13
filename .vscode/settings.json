@@ -1,0 +1,26 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "felixthecat-master/lib/javafx.base.jar",
+        "felixthecat-master/lib/javafx.controls.jar",
+        "felixthecat-master/lib/javafx.fxml.jar",
+        "felixthecat-master/lib/javafx.graphics.jar",
+        "felixthecat-master/lib/javafx.media.jar",
+        "felixthecat-master/lib/javafx.swing.jar",
+        "felixthecat-master/lib/javafx.web.jar",
+        "felixthecat-master/lib/javafx-swt.jar",
+        "c:\\Users\\alanb\\OneDrive\\Documents\\javafx-sdk-19\\lib\\javafx.base.jar",
+        "c:\\Users\\alanb\\OneDrive\\Documents\\javafx-sdk-19\\lib\\javafx.controls.jar",
+        "c:\\Users\\alanb\\OneDrive\\Documents\\javafx-sdk-19\\lib\\javafx.fxml.jar",
+        "c:\\Users\\alanb\\OneDrive\\Documents\\javafx-sdk-19\\lib\\javafx.graphics.jar",
+        "c:\\Users\\alanb\\OneDrive\\Documents\\javafx-sdk-19\\lib\\javafx.media.jar",
+        "c:\\Users\\alanb\\OneDrive\\Documents\\javafx-sdk-19\\lib\\javafx.swing.jar",
+        "c:\\Users\\alanb\\OneDrive\\Documents\\javafx-sdk-19\\lib\\javafx.web.jar",
+        "c:\\Users\\alanb\\OneDrive\\Documents\\javafx-sdk-19\\lib\\javafx-swt.jar"
+    ],
+    "java.project.sourcePaths": [
+        "felixthecat-master/src",
+        "felixthecat-master/lib"
+    ],
+    "java.debug.settings.vmArgs": "--module-path C:/Users/alanb/OneDrive/Documents/javafx-sdk-19/lib --add-modules javafx.controls",
+}
