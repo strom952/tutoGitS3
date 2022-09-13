@@ -7,9 +7,13 @@ public class Felix {
 
 	public void drawOn(GraphicsContext gc) {
 		/*drawHead(gc);
-		drawEyes(gc);
+		drawEyes(gc);*/
 		drawEars(gc);
-		drawWiskers(gc);*/
+		drawWiskers(gc);
+	}
+
+	public void drawEars(gc) {
+		
 	}
 
 }
