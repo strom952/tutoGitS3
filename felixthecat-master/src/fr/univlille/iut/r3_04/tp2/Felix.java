@@ -6,10 +6,14 @@ import javafx.scene.paint.Color;
 public class Felix {
 
 	public void drawOn(GraphicsContext gc) {
-		/*drawHead(gc);
+		drawHead(gc);
 		drawEyes(gc);
 		drawEars(gc);
-		drawWiskers(gc);*/
+		drawWiskers(gc);
 	}
 
+	public void drawEars(gc) {
+		gc.setFill(Color.DARKGREY);
+		gc.fill()
+	}
 }
