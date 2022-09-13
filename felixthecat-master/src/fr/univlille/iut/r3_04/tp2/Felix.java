@@ -23,7 +23,9 @@ public class Felix {
 		gc.fillOval(160, 100, 20, 40);
 	}
 
-	public void drawEars(gc) {
-		gc.setFill(Color.DARKGREY);
+	public void drawEars(GraphicsContext gc) {
+		gc.setFill(Color.BLACK);
+		gc.fillPolygon(new double[] {240, 200, 180}, new double[] {50, 83, 65}, 3);
+		gc.fillPolygon(new double[] {35, 70, 90}, new double[] {50, 83, 65}, 3);
 	}
 }
