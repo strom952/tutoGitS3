@@ -13,7 +13,7 @@ public class Main extends Application {
     public void start(Stage stage) {
     	stage.setTitle("Felix The Cat");
         Group root = new Group();
-        Canvas canvas = new Canvas(300, 250);
+        Canvas canvas = new Canvas(500, 250);
         GraphicsContext gc = canvas.getGraphicsContext2D();
         new Felix().drawOn(gc);
         root.getChildren().add(canvas);
